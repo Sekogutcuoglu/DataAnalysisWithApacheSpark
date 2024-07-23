@@ -43,6 +43,7 @@ Linux işletim sistemi üzerine kurulan Apache kafka’ya, çeşitli ağ protoko
 
 Apache Spark, büyük veri işleme için geliştirilmiş, açık kaynaklı bir veri analiz motorudur. Hızlı, genel amaçlı ve genişletilebilir olmasıyla bilinir. Spark, veri kümelerini bellek içi işlemeyle hızlı analiz yapabilen ve MapReduce modelinden daha yüksek performans sağlayan bir sistemdir. Çeşitli veri işleme görevlerini kolaylaştırmak için Spark SQL, Spark Streaming, MLlib ve GraphX gibi modülleri içerir. Ayrıca, Hadoop, Cassandra, HBase ve S3 gibi birçok veri kaynağıyla uyumludur ve geniş bir ekosisteme sahiptir. Spark, büyük veri analizini daha hızlı, esnek ve kullanıcı dostu hale getirir.
 
+**NOT** : BasketAnalysis'de "amazon-products.csv" dosyasını dosya büyüklüğü nedeniyle çıkarttım eklemeniz de fayda var.
 
 ************************ENGLISH************************
 
@@ -85,3 +86,6 @@ Apache Kafka, installed on a Linux operating system, is accessed using “Putty.
 
 **Apache Spark Integration**
 Apache Spark is an open-source data analytics engine developed for big data processing. It is known for being fast, general-purpose, and extensible. Spark can perform rapid analysis with in-memory processing of datasets and provides higher performance than the MapReduce model. It includes modules such as Spark SQL, Spark Streaming, MLlib, and GraphX to facilitate various data processing tasks. Additionally, it is compatible with many data sources like Hadoop, Cassandra, HBase, and S3 and has a broad ecosystem. Spark makes big data analytics faster, more flexible, and user-friendly.
+
+
+**NOT** : In the Basket Analysis, I removed the "amazon-products.csv" file due to its size, so it would be beneficial to mention this.
