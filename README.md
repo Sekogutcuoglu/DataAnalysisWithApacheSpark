@@ -1,4 +1,5 @@
 *****Giriş****
+
 Veri, harf veya sayı olarak kodlanmış ham bilgidir. Günümüzde bilgi teknolojilerinin hızla ilerlemesi ve veri kullanımının artmasıyla birlikte, işlemlerimizin büyük bir kısmı dijital ortamlarda gerçekleştirilmektedir. Bu verilerin analizi, çağımızın en önemli konularından biri olmuştur.
 
 E-ticaret sektöründe müşteri bilgilerini ve işlem verilerini etkili bir şekilde analiz etmek büyük bir önem taşır. Büyük veri analitiği, bu bağlamda müşteri davranışlarını anlamak ve satış stratejileri geliştirmek için kullanılan kritik bir teknolojidir. Bu projede, büyük veri teknolojileri kullanılarak e-ticaret sepet analizleri gerçekleştirilmiş ve elde edilen veriler doğrultusunda satış stratejileri geliştirilmiştir.
