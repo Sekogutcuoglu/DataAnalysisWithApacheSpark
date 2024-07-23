@@ -1,4 +1,4 @@
-*****Giriş****
+****Giriş****
 
 Veri, harf veya sayı olarak kodlanmış ham bilgidir. Günümüzde bilgi teknolojilerinin hızla ilerlemesi ve veri kullanımının artmasıyla birlikte, işlemlerimizin büyük bir kısmı dijital ortamlarda gerçekleştirilmektedir. Bu verilerin analizi, çağımızın en önemli konularından biri olmuştur.
 
